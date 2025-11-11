@@ -4,3 +4,5 @@ langchain-google-genai
 langchain-anthropic
 langchain-google-firestore
 langchain-groq
+langchain_chroma
+langchain
